@@ -1,0 +1,27 @@
+{
+  "timestamp": "2024-11-03T21:56:29.886Z",
+  "formData": {
+    "name": "John Doe",
+    "email": "john@example.com",
+    "phone": "1234567890",
+    "dob": "1990-01-01",
+    "address": "123 Main St, Anytown, USA",
+    "employment_status": "employed",
+    "work_experience": "5",
+    "academic_grade": "bachelor",
+    "gender": "male",
+    "ssn": "123-45-6789",
+    "work_type": "onsite",
+    "hours_per_week": "40",
+    "same_hours": "yes",
+    "last_job_pay": "20",
+    "accept_same_pay": "yes",
+    "authorized_to_work": "yes",
+    "payment_method": "bank"
+  },
+  "files": {
+    "license_front": "uploads\\license_front-1730670989855.jpg",
+    "license_back": "uploads\\license_back-1730670989857.jpg",
+    "selfie": "uploads\\selfie-1730670989858.jpg"
+  }
+}
